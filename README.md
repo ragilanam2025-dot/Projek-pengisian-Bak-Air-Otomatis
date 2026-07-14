@@ -1,4 +1,6 @@
 # Projek-pengisian-Bak-Air-Otomatis
 Nama  = Ragil Anam Winarya
+
 Tahun = 2026
+
 Projek ini dirancang untuk mempermudah pengisian bak penampungan air tanpa perlu membuka dan menutup kran secara manual. Alat ini hanya perlu menekan tombol START (push button) untuk memulai pengisian. Relay kemudian akan mengaktifkan solenoid valve sehingga aliran air menuju bak terbuka secara otomatis. Ketika permukaan air mencapai batas yang telah ditentukan, sensor float switch akan mendeteksi ketinggian air dan memutus rangkaian relay. Relay kemudian menghentikan suplai tegangan ke solenoid valve sehingga menutup secara otomatis dan proses pengisian berhenti. Hal tersebut sistem dapat membantu mencegah air meluap, mengurangi pemborosan air, serta meningkatkan kenyamanan pengguna. Proyek ini dibangun menggunakan komponen sederhana seperti relay, solenoid valve, float switch, push button (momentary), adaptor 12V, terminal block, dan PCB bolong, sehingga mudah dirakit, ekonomis, dan cocok diterapkan pada sistem penampungan air rumah tangga.
